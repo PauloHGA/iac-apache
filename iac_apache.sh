@@ -3,6 +3,7 @@
 echo "Atualizando Servidor..."
 
 apt update -y
+apt upgrade -y
 
 echo "Instalando Apache..."
 
